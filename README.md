@@ -1,3 +1,9 @@
+My changes:
+- Added missing album artist to SMTC
+- updated SDK and toolchain versions
+
+---
+
 # foo_mediacontrol
 Adds the ability for foobar2000 to interact with the Windows 10 media control overlay.
 
